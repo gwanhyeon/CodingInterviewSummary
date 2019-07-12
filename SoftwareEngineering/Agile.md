@@ -63,7 +63,7 @@ Exmaple) 미식축구 횡대 자세
 
 # 제품 백로그(Product Backlog) 문서
 
-![product_backlog](./images/product_backlog.png)
+![product_backlog](./images/product_backlog.jpg)
 
 
 
