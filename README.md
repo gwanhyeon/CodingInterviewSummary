@@ -1,15 +1,26 @@
 # IT Coding interview preparation
 
+## Proceeding
+### Infra
+- [Docker](/infra/Docker.md)
+- [Virtualization](infra/Virtualization.md)
+
+### OS
+- [Process](/OS/Process.md)
+- [Thread](/OS/Thread.md)
+
+### SoftwareEngineering
+- [Agile](/SoftwareEngineering/Agile.md)
+
+## Intended
 * Network
-* OS
 * Database
 * Design Pattern
-* Infra
 * Cloud
 * DevOps
 * etc..
 
-# Mark-down rules
+## Mark-down rules
 
 * 1일 1커밋
 * 하나의 개념당 3줄 이내로 요약 할 것(최소 2줄, 최대 3줄)
