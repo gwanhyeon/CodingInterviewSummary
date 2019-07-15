@@ -2,8 +2,8 @@
 
 ## Proceeding
 ### Infra
-- [Docker](/infra/Docker.md)
-- [Virtualization](infra/Virtualization.md)
+- [Docker](/Infra/Docker.md)
+- [Virtualization](Infra/Virtualization.md)
 
 ### OS
 - [Process](/OS/Process.md)
