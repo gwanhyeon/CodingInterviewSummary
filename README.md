@@ -8,6 +8,7 @@
 ### OS
 - [Process](/OS/Process.md)
 - [Thread](/OS/Thread.md)
+- [Semaphore&Mutex](/OS/Semaphore&Mutex.md)
 
 ### SoftwareEngineering
 - [Agile](/SoftwareEngineering/Agile.md)
