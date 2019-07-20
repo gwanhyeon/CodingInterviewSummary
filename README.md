@@ -17,10 +17,6 @@
 
 ### Network
 - [HTTP&HTTPS](/Network/HTTP&HTTPS.md)
-- [SSL](/Network/SSL.md)
-
-### DesignPattern
-- [Builder](/DesignPattern/Builder.md)
 
 ## Intended
 * Network
