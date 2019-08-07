@@ -11,6 +11,7 @@
 - [Semaphore & Mutex](/OS/Semaphore&Mutex.md)
 - [Synchronization & Critical Section](/OS/Synchronization&CriticalSection.md)
 - [Transaction](/OS/Transaction.md)
+- [DeadLock](/OS/DeadLock.md)
 
 ### SoftwareEngineering
 - [Agile](/SoftwareEngineering/Agile.md)
