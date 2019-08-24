@@ -3,7 +3,8 @@
 ## Proceeding
 ### Infra
 - [Docker](/Infra/Docker.md)
-- [Virtualization](Infra/Virtualization.md)
+- [Virtualization](/Infra/Virtualization.md)
+- [MSA (vs Monolithich, vs SOA)](/Infra/msa.md)
 
 ### OS
 - [Process](/OS/Process.md)
@@ -20,7 +21,6 @@
 - [HTTP&HTTPS](/Network/HTTP&HTTPS.md)
 - [SSL](/Network/SSL.md)
 - [OSI 7 Layer](/Network/OSI_7_Layer.md)
-- [TCP]()
 
 ### DesignPattern
 - [Builder](/DesignPattern/Builder.md)
