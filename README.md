@@ -3,8 +3,10 @@
 ## Proceeding
 ### Infra
 - [Docker](/Infra/Docker.md)
-- [Virtualization](/Infra/Virtualization.md)
 - [MSA (vs Monolithich, vs SOA)](/Infra/msa.md)
+- [Virtualization](Infra/Virtualization.md)
+- [Container](/Infra/Container.md)
+- [Kubernetes](/Infra/Kubernetes.md)
 
 ### OS
 - [Process](/OS/Process.md)
