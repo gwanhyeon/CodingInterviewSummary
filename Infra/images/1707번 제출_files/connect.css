@@ -1,0 +1,65 @@
+/* from http://www.topcoder.com/css/coders.css */
+.coderTextRed, .coderTextYellow, .coderTextBlue, .coderTextGreen, .coderTextGray, .coderTextOrange { 
+    font-weight: bold; 
+    background-color: transparent;
+}
+.coderTextRed:link, .coderTextYellow:link, .coderTextBlue:link, .coderTextGreen:link, .coderTextGray:link, .coderTextOrange:link, .coderTextWhite:link, .coderTextBlack:link { 
+    text-decoration: none;
+}
+.coderTextRed:visited, .coderTextYellow:visited, .coderTextBlue:visited, .coderTextGreen:visited, .coderTextGray:visited, .coderTextOrange:visited, .coderTextWhite:visited, .coderTextBlack:visited { 
+    text-decoration: none;
+}
+.coderTextRed:hover, .coderTextYellow:hover, .coderTextBlue:hover, .coderTextGreen:hover, .coderTextGray:hover, .coderTextOrange:hover, .coderTextWhite:hover, .coderTextBlack:hover { 
+    text-decoration: underline;
+}
+.coderTextRed:active, .coderTextYellow:active, .coderTextBlue:active, .coderTextGreen:active, .coderTextGray:active, .coderTextOrange:active, .coderTextWhite:active, .coderTextBlack:active { 
+    text-decoration: underline;
+}
+
+/* Orange */
+.coderTextOrange, .coderTextOrange:link, .coderTextOrange:visited, .coderTextOrange:hover, .coderTextOrange:active { color: #FF9900; }
+/* Red */
+.coderTextRed, .coderTextRed:link, .coderTextRed:visited, .coderTextRed:hover, .coderTextRed:active { color: #EE0000; }
+/* Yellow */
+.coderTextYellow, .coderTextYellow:link, .coderTextYellow:visited, .coderTextYellow:hover, .coderTextYellow:active { color: #DDCC00; }
+/* Blue */
+.coderTextBlue, .coderTextBlue:link, .coderTextBlue:visited, .coderTextBlue:hover, .coderTextBlue:active { color: #6666FF; }
+/* Green */
+.coderTextGreen, .coderTextGreen:link, .coderTextGreen:visited, .coderTextGreen:hover, .coderTextGreen:active { color: #00A900; }
+/* Gray */
+.coderTextGray, .coderTextGray:link, .coderTextGray:visited, .coderTextGray:hover, .coderTextGray:active { color: #999999; }
+/* White */
+.coderTextWhite, .coderTextWhite:link, .coderTextWhite:visited, .coderTextWhite:hover, .coderTextWhite:active { color: #FFFFFF; }
+/* Black */
+.coderTextBlack, .coderTextBlack:link, .coderTextBlack:visited, .coderTextBlack:hover, .coderTextBlack:active { color: #000000; }
+/* from codeforces */
+.user-black, .user-red, .user-fire, .user-yellow, .user-violet, .user-orange, .user-blue, .user-green, .user-gray, .user-admin, .user-legendary, .user-cyan, .user-legendary-first-letter {
+    font-weight: bold; 
+    background-color: transparent;
+}
+.user-black:link, .user-red:link, .user-fire:link, .user-yellow:link, .user-violet:link, .user-orange:link, .user-blue:link, .user-green:link, .user-gray:link, .user-admin:link, .user-legendary:link, .user-cyan:link, .user-legendary-first-letter:link {
+	text-decoration: none;
+}
+.user-black:visited, .user-red:visited, .user-fire:visited, .user-yellow:visited, .user-violet:visited, .user-orange:visited, .user-blue:visited, .user-green:visited, .user-gray:visited, .user-admin:visited, .user-legendary:visited, .user-cyan:visited, .user-legendary-first-letter:visited {
+	text-decoration: none;
+}
+.user-black:hover, .user-red:hover, .user-fire:hover, .user-yellow:hover, .user-violet:hover, .user-orange:hover, .user-blue:hover, .user-green:hover, .user-gray:hover, .user-admin:hover, .user-legendary:hover, .user-cyan:hover, .user-legendary-first-letter:hover {
+	text-decoration: underline;
+}
+.user-black:active, .user-red:active, .user-fire:active, .user-yellow:active, .user-violet:active, .user-orange:active, .user-blue:active, .user-green:active, .user-gray:active, .user-admin:active, .user-legendary:active, .user-cyan:active, .user-legendary-first-letter:active {
+	text-decoration: underline;
+}
+.user-black{color:black !important; font-weight:normal !important;}
+.user-legendary{color:red !important;}
+.user-red{color:red !important;}
+.user-fire{color:red !important;}
+.user-yellow{color:#bb0 !important;}
+.user-violet{color:#a0a !important;}
+.user-orange{color:#ff8c00 !important;}
+.user-blue{color:blue !important;}
+.user-cyan{color: #03A89E !important;}
+.user-green{color:green !important;}
+.user-gray{color:gray !important;}
+.user-admin{color:black !important;}
+
+.user-legendary-first-letter{color:black !important;}

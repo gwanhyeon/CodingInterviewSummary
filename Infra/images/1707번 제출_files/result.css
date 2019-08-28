@@ -1,0 +1,196 @@
+.result-wait, .result-rejudge-wait, .result-no-judge {
+	color: #95a5a6 !important;
+}
+.result-compile, .result-judging {
+	color: #e67e22 !important;
+}
+.result-ac {
+	color: #009F6B !important;
+	font-weight: bold;
+}
+.result-pac {
+	color: #f0ad4e !important;
+	font-weight: bold;
+}
+.result-pe, .result-wa, .result-tle, .result-mle, .result-ole {
+	color: #e74c3c !important;
+}
+.result-rte, .result-ce {
+	color: #4765a0 !important;
+}
+.result-co, .result-del {
+	color: black !important;
+	text-decoration: line-through;
+}
+a.result-ac:hover, a.result-ac:active,  a.result-ac:focus {
+	color: #009F6B;
+	font-weight: bold;
+}
+a.result-wa:hover, a.result-wa:active, a.result-wa:focus {
+	color: #e74c3c;
+}
+
+.result-wait-text::after {
+	content: "기다리는 중";
+	color: #95a5a6 !important;
+}
+.result-wait-text-eng::after {
+	content: "Pending";
+	color: #95a5a6 !important;
+}
+.result-rejudge-wait-text::after {
+	content: "재채점을 기다리는 중";
+	color: #95a5a6 !important;
+}
+.result-rejudge-wait-text-eng::after {
+	content: "Pending Rejudge";
+	color: #95a5a6 !important;
+}
+.result-no-judge-text::after {
+	content: "채점하지 않음";
+	color: #95a5a6 !important;
+}
+.result-compile-text::after {
+	content: "채점 준비 중";
+	color: #e67e22 !important;
+}
+.result-compile-text-eng::after {
+	content: "Prepare for Judge";
+	color: #e67e22 !important;
+}
+.result-judging-text::after {
+	content: "채점 중";
+	color: #e67e22 !important;
+}
+.result-judging-text-eng::after {
+	content: "Judging";
+	color: #e67e22 !important;
+}
+.result-ac-text::after {
+	content: "맞았습니다!!";
+	color: #009F6B !important;
+	font-weight: bold;
+}
+.result-ac-text-eng::after {
+	content: "Accepted";
+	color: #009F6B !important;
+	font-weight: bold;
+}
+.result-pac-text::after {
+	content: "맞았습니다!!";
+	color: #f0ad4e !important;
+	font-weight: bold;
+}
+.result-pac-text-eng::after {
+	content: "Partially Accepted";
+	color: #f0ad4e !important;
+	font-weight: bold;
+}
+.result-pe-text::after {
+	content: "출력 형식이 잘못되었습니다";
+	color: #e74c3c !important;
+}
+.result-pe-text-eng::after {
+	content: "Presentation Error";
+	color: #e74c3c !important;
+}
+.result-wa-text::after {
+	content: "틀렸습니다";
+	color: #e74c3c !important;
+}
+.result-wa-text-eng::after {
+	content: "Wrong Answer";
+	color: #e74c3c !important;
+}
+.result-tle-text::after {
+	content: "시간 초과";
+	color: #e74c3c !important;
+}
+.result-tle-text-eng::after {
+	content: "Time Limit Exceeded";
+	color: #e74c3c !important;
+}
+.result-mle-text::after {
+	content: "메모리 초과";
+	color: #e74c3c !important;
+}
+.result-mle-text-eng::after {
+	content: "Memory Limit Exceeded";
+	color: #e74c3c !important;
+}
+.result-ole-text::after {
+	content: "출력 초과";
+	color: #e74c3c !important;
+}
+.result-ole-text-eng::after {
+	content: "Output Limit Exceeded";
+	color: #e74c3c !important;
+}
+.result-rte-text::after {
+	content: "런타임 에러";
+	color: #4765a0 !important;
+}
+.result-rte-text-eng::after {
+	content: "Runtime Error";
+	color: #4765a0 !important;
+}
+.result-ce-text::after {
+	content: "컴파일 에러";
+	color: #4765a0 !important;
+}
+.result-ce-text-eng::after {
+	content: "Compilation Error";
+	color: #4765a0 !important;
+}
+.result-co-text::after {
+	content: "채점 불가";
+	color: black !important;
+	text-decoration: line-through;
+}
+.result-co-text-eng::after {
+	content: "Unavailable";
+	color: black !important;
+	text-decoration: line-through;
+}
+.result-del-text::after {
+	content: "삭제된 제출";
+	color: black !important;
+	text-decoration: line-through;
+}
+.result-del-text-eng::after {
+	content: "Deleted";
+	color: black !important;
+	text-decoration: line-through;
+}
+a.result-ac-text:hover::after, a.result-ac-text:active::after,  a.result-ac-text:focus::after {
+	color: #009F6B;
+	font-weight: bold;
+}
+a.result-pac-text:hover::after, a.result-pac-text:active::after,  a.result-pac-text:focus::after {
+	color: #f0ad4e;
+	font-weight: bold;
+}
+a.result-wa-text:hover::after, a.result-wa-text:active::after, a.result-wa-text:focus::after {
+	color: #e74c3c;
+}
+a.result-ac-text-eng:hover::after, a.result-ac-text-eng:active::after,  a.result-ac-text-eng:focus::after {
+	color: #009F6B;
+	font-weight: bold;
+}
+a.result-pac-text-eng:hover::after, a.result-pac-text-eng:active::after,  a.result-pac-text-eng:focus::after {
+	color: #f0ad4e;
+	font-weight: bold;
+}
+a.result-wa-text-eng:hover::after, a.result-wa-text-eng:active::after, a.result-wa-text-eng:focus::after {
+	color: #e74c3c;
+}
+.result-will-be-change {
+	/* display: inline-block;
+	-webkit-transform: rotateX(180deg);
+	transform: rotateX(180deg); */
+	color: #95a5a6 !important;
+}
+
+.result-will-be-change-text::after {
+	color: #95a5a6 !important;
+}

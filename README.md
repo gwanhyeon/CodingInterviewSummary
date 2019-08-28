@@ -15,6 +15,9 @@
 - [Transaction](/OS/Transaction.md)
 - [DeadLock](/OS/DeadLock.md)
 
+### Database
+
+- [Transaction(Commit&Rollback)](/Database/Commit&Rollback.md)
 ### SoftwareEngineering
 - [Agile](/SoftwareEngineering/Agile.md)
 
@@ -32,7 +35,6 @@
 
 ## Intended
 * Network
-* Database
 * Design Pattern
 * Cloud
 * DevOps
@@ -40,6 +42,4 @@
 
 ## Mark-down rules
 
-* 1일 1커밋
-* 하나의 개념당 3줄 이내로 요약 할 것(최소 2줄, 최대 3줄)
-* Free Topics - Computer Science
+* One Day, One Commit

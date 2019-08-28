@@ -1,0 +1,24 @@
+.CodeMirror {
+  font-family: Menlo, Monaco, 'Source Code Pro', consolas, monospace;
+  font-size: medium;
+  height: auto;
+}
+
+.cm-s-default .cm-keyword {color: #006699;}
+.cm-s-default .cm-def {color: gray;}
+.cm-s-default .cm-comment {color: #008200;}
+.cm-s-default .cm-meta {color: gray;}
+
+.CodeMirror-scroll {
+	min-height: 300px;
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+.codemirror-textarea {
+	display: none;
+}
+
+.lint-error { font-size: 70%; background: #ffa; color: #a00; padding: 2px 5px 3px; }
+.lint-error-icon { color: white; background-color: red; font-weight: bold; border-radius: 50%; padding: 0 3px; margin-right: 7px; }
+.lint-warning-icon { color: white; background-color: orange; font-weight: bold; border-radius: 50%; padding: 0 3px; margin-right: 7px; }
