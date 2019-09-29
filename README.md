@@ -28,9 +28,14 @@
 ### System
 - [Compiler](/System/Compiler.md)
 
+### Spring
+
+### Database
+
+### DataStructure
+- [Array vs List](/DataStructure/ArrayVSList.md)
+
 ## Intended
-* Network
-* Database
 * Design Pattern
 * Cloud
 * DevOps
