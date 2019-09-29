@@ -10,11 +10,14 @@
 
 ### OS
 - [Process](/OS/Process.md)
+- [Preemptive vs Non-Preemptive Scheduling](/OS/Scheduling.md)
+- [Process Control](/OS/ProcessControl.md)
 - [Thread](/OS/Thread.md)
 - [Semaphore & Mutex](/OS/Semaphore&Mutex.md)
 - [Synchronization & Critical Section](/OS/Synchronization&CriticalSection.md)
 - [Transaction](/OS/Transaction.md)
 - [DeadLock](/OS/DeadLock.md)
+
 
 ### Database
 - [Transaction(Commit&Rollback)](/Database/Commit&Rollback.md)
