@@ -33,7 +33,9 @@
 ### System
 - [Compiler](/System/Compiler.md)
 
-### Spring
+### Spring 
+- [Bean](/Spring/Bean.md)
+- [IoC(Inversion of Control) & DI(Dependency Injection)](/Spring/IoC&DI.md)
 
 ### Database
 
