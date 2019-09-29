@@ -3,8 +3,10 @@
 ## Proceeding
 ### Infra
 - [Docker](/Infra/Docker.md)
-- [Virtualization](/Infra/Virtualization.md)
 - [MSA (vs Monolithich, vs SOA)](/Infra/msa.md)
+- [Virtualization](Infra/Virtualization.md)
+- [Container](/Infra/Container.md)
+- [Kubernetes](/Infra/Kubernetes.md)
 
 ### OS
 - [Process](/OS/Process.md)
@@ -14,6 +16,9 @@
 - [Transaction](/OS/Transaction.md)
 - [DeadLock](/OS/DeadLock.md)
 
+### Database
+
+- [Transaction(Commit&Rollback)](/Database/Commit&Rollback.md)
 ### SoftwareEngineering
 - [Agile](/SoftwareEngineering/Agile.md)
 
@@ -36,6 +41,7 @@
 - [Array vs List](/DataStructure/ArrayVSList.md)
 
 ## Intended
+
 * Design Pattern
 * Cloud
 * DevOps
@@ -43,6 +49,4 @@
 
 ## Mark-down rules
 
-* 1일 1커밋
-* 하나의 개념당 3줄 이내로 요약 할 것(최소 2줄, 최대 3줄)
-* Free Topics - Computer Science
+* One Day, One Commit
