@@ -50,6 +50,7 @@
 
 ### Java
 - [OOP](/Java/OOP.md)
+- [Generic](/Java/Generic.md)
 
 ## Intended
 
