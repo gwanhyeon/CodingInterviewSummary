@@ -11,10 +11,15 @@
 ### OS
 - [Process](/OS/Process.md)
 - [Thread](/OS/Thread.md)
-- [Semaphore & Mutex](/OS/Semaphore&Mutex.md)
-- [Synchronization & Critical Section](/OS/Synchronization&CriticalSection.md)
-- [Transaction](/OS/Transaction.md)
+- [Preemptive vs Non-Preemptive Scheduling](/OS/Scheduling.md)
+- [Process Control](/OS/ProcessControl.md)
+- [Semaphore & Mutex & Critical Section](/OS/Semaphore&Mutex.md)
+    - [Semaphore & Mutex(detail)](/OS/Semaphore&Mutex-detail.md)
+    - [Critical Section(detail)](/OS/CriticalSection-detail.md)
 - [DeadLock](/OS/DeadLock.md)
+- [Synchronization](/OS/Synchronization.md)
+- [Transaction](/OS/Transaction.md)
+- [IPC(Inter Process Communication)](/OS/IPC.md)
 
 ### Database
 - [Transaction(Commit&Rollback)](/Database/Commit&Rollback.md)
