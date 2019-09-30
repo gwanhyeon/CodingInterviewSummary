@@ -20,6 +20,8 @@
 - [Synchronization](/OS/Synchronization.md)
 - [Transaction](/OS/Transaction.md)
 - [IPC(Inter Process Communication)](/OS/IPC.md)
+- [Memory - Heap & Stack](/OS/memory.md)
+- [Virtual Memory](/OS/virtualMemory.md)
 
 ### Database
 - [Transaction(Commit&Rollback)](/Database/Commit&Rollback.md)
