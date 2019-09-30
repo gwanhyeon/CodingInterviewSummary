@@ -22,6 +22,7 @@
 - [IPC(Inter Process Communication)](/OS/IPC.md)
 - [Memory - Heap & Stack](/OS/memory.md)
 - [Virtual Memory](/OS/virtualMemory.md)
+- [Memory Allocation & Relocation](/OS/MemoryAllocation.md)
 
 ### Database
 - [Transaction(Commit&Rollback)](/Database/Commit&Rollback.md)
