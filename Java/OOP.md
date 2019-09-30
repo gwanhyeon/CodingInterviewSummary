@@ -17,7 +17,7 @@
 
 ### 리스코프 치환 원칙(LSP, Liskov Substitution Principle)
 - 자식 클래스는 최소한 자신의 `부모 클래스에서 가능한 행위`를 수행할 수 있어야 한다. 
-- **LSP를 만족한다면 부모 클래스의 인스턴스 대신 자식 클래스의 인스턴슨로 대체해도 프로그램의 의미가 변하지 않는다.**(ex- List<Integer> l = new ArrayList<>();)
+- **LSP를 만족한다면 부모 클래스의 인스턴스 대신 자식 클래스의 인스턴스로 대체해도 프로그램의 의미가 변하지 않는다.**(ex- `List<Integer> l = new ArrayList<>();`)
 - LSP를 만족시키는 방법 중 하나는 부모 클래스의 메소드를 `Override`하지 않는 것이다. 
 
 ### 인터페이스 분리 원칙(ISP, Interface Segregation Principle)
