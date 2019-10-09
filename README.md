@@ -48,6 +48,10 @@
 ### DataStructure
 - [Array vs List](/DataStructure/ArrayVSList.md)
 
+### Java
+- [OOP](/Java/OOP.md)
+- [Generic](/Java/Generic.md)
+
 ## Intended
 
 * Design Pattern
